@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Amir Ali Eslami
+- 👀 I’m interested in learning different programming language
+- 🌱 I’m currently learning Python and Java
+- 📫 You can reach me via email at amirali.eslami@ryerson.ca
